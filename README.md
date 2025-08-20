@@ -1,4 +1,4 @@
-# AI Career Agent
+# LinkedIn AI Chatbot
 
 An **AI-powered professional assistant** that brings a LinkedIn profile to life, combining **OpenAI API**, **PyPDF**, and **Gradio** into a seamless experience.
 
